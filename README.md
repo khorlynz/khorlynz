@@ -1,6 +1,7 @@
 # Oluwafemi Collins Babalola – Cybersecurity Analyst
 
-👋 Hello! I’m Oluwafemi Collins Babalola, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
+👋 Hello! I am Oluwafemi Collins Babalola, founder of Data Directory Solutions Limited and an IT Support & Cyber Security professional with a passion for solving real-world technology challenges.I am a results-driven Cybersecurity Analyst with three years of experience protecting cloud and on-prem infrastructures.
+My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
@@ -77,7 +78,7 @@
 ## Contact
 
 - **LinkedIn:** <https://www.linkedin.com/in/femi-collins777/>  
-- **Email:** <babalolaoluwafemi777@gmail.com>  
+- **Email:** <femicollins777@gmail.com>  
 - **Portfolio:** <your-portfolio-url>
 
 ---

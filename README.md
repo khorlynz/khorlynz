@@ -10,7 +10,6 @@ My work focuses on threat detection, vulnerability management, and continuous se
 ### Lab Foundations
 - **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)
 
-
 ### Identity & Access Security
 - **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs
 - **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy
@@ -39,8 +38,6 @@ My work focuses on threat detection, vulnerability management, and continuous se
 ### Malware & Exploit Analysis
 - **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox
 - **Malicious PDF Analysis** – Payload extraction and script dissection
-
-
 
 ---
 
@@ -71,7 +68,25 @@ My work focuses on threat detection, vulnerability management, and continuous se
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-|
+
+## Areas of Expertise
+- IT Support
+- Cyber Security
+- Microsoft 365
+- Azure
+- Endpoint Management (Microsoft Intune)
+- Microsoft Entra ID
+- PowerShell Automation
+- Windows Server
+- Networking
+- Python
+
+## Currently Working On
+- IT Automation with PowerShell & Python
+- Cyber Security Projects
+- Microsoft 365 Administration
+- Azure Cloud Solutions
+- Technical Documentation
 
 ---
 
@@ -80,6 +95,7 @@ My work focuses on threat detection, vulnerability management, and continuous se
 - **LinkedIn:** <https://www.linkedin.com/in/femi-collins777/>  
 - **Email:** <femicollins777@gmail.com>  
 - **Portfolio:** <your-portfolio-url>
+- Company Website: https://datadirectorysolutions.co.uk
 
 ---
 
